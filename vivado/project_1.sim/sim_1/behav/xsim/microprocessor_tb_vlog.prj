@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../" \
+"../../../../../src/ALU.sv" \
+"../../../../../src/RF.sv" \
+"../../../../../tb/fake_memory.sv" \
+"../../../../../tb/fake_rom.sv" \
+"../../../../../src/instruction_fsm.sv" \
+"../../../../../src/microprocessor.sv" \
+"../../../../../tb/microprocessor_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/instructions.sv,1728745203,verilog,,,,,,,,,,,,
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/ALU.sv,1728741969,systemVerilog,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/RF.sv;C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/instruction_fsm.sv;C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/microprocessor.sv;C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/fake_memory.sv;C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/fake_rom.sv;C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/microprocessor_tb.sv,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/RF.sv,,$unit_ALU_sv_2748145411;ALU;adder_subtractor;full_adder;half_adder,,uvm,../../../../../,,,,,
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/RF.sv,1729029435,systemVerilog,,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/fake_memory.sv,,RF,,uvm,../../../../../,,,,,
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/instruction_fsm.sv,1729029307,systemVerilog,,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/microprocessor.sv,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/instructions.sv,instruction_fsm,,uvm,../../../../../,,,,,
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/microprocessor.sv,1728747315,systemVerilog,,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/microprocessor_tb.sv,,microprocessor,,uvm,../../../../../,,,,,
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/fake_memory.sv,1728744624,systemVerilog,,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/fake_rom.sv,,fake_memory,,uvm,../../../../../,,,,,
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/fake_rom.sv,1729034634,systemVerilog,,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/src/instruction_fsm.sv,C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/instructions.sv,fake_rom,,uvm,../../../../../,,,,,
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/tb/microprocessor_tb.sv,1728748007,systemVerilog,,,,microprocessor_tb,,uvm,../../../../../,,,,,
+C:/Users/Kai/Documents/_MyDocuments/Coursework/IL2234/lab4/vivado/project_1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
